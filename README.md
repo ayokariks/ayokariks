@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayokunle
+- 👋 Hi, I’m Ayokunle Founder of The Ubuntu Network
 - 👀 I’m interested in Music, Tech and Renewable Energy
 - 🌱 I’m currently learning Machine learning, Tensor Flow, Python, Data Analytics
 - 💞️ I’m looking to collaborate on machine learning projects with a focus on Energy x Music Applications
