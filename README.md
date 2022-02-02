@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayokunle Founder of The Ubuntu Network
 - 👀 I’m interested in Music, Tech and Renewable Energy
 - 🌱 I’m currently doing an MSc in Energy Systems and Data Analytics
-- 💞️ I’m looking to collaborate on projects with a focus on energy, building community and music
+- 💞️ I’m looking to collaborate on projects with a focus on sustinability, building community and music
 - 📫 How to reach me ayokariks@gmail, twitter _ayokunle
 
 <!---
